@@ -30,7 +30,7 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "com.qingbing",
+      "identifier": "com.qingbing.clipboard",
       "targets": "all"
     },
     "security": {

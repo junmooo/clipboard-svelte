@@ -2,13 +2,6 @@
 # yarn lockfile v1
 
 
-"@colorfuldots/svelteit@^1.0.0-alpha.7":
-  version "1.0.0-alpha.7"
-  resolved "https://registry.yarnpkg.com/@colorfuldots/svelteit/-/svelteit-1.0.0-alpha.7.tgz#f4feeed01fe7cd91ae532c89985862a4af8c9d62"
-  integrity sha512-k2Ls64X6TIGaDpQpPlEXuvlkXhQVkC/6sJmgi9hzgn+ty8hMsxf2fINvMTtlywRDtqqMkH/DbFlUbEv9kzQkRw==
-  dependencies:
-    svelte-css-vars "0.0.1"
-
 "@esbuild/android-arm64@0.17.11":
   version "0.17.11"
   resolved "https://registry.yarnpkg.com/@esbuild/android-arm64/-/android-arm64-0.17.11.tgz#52c3e6cabc19c5e4c1c0c01cb58f0442338e1c14"
@@ -331,11 +324,6 @@ supports-preserve-symlinks-flag@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/supports-preserve-symlinks-flag/-/supports-preserve-symlinks-flag-1.0.0.tgz#6eda4bd344a3c94aea376d4cc31bc77311039e09"
   integrity sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==
-
-svelte-css-vars@0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/svelte-css-vars/-/svelte-css-vars-0.0.1.tgz#f0775a02952476a47e99ea866e64ba8d2353b9e0"
-  integrity sha512-SXsLuHvpC40H14iCRH8zp/NnY/tKGhQhmHSx31PhUNvo+Hyw7IovTnx4ICsYlg4tS7kFsYtOh5sNSdvGsY6AQA==
 
 svelte-hmr@^0.15.1:
   version "0.15.1"
